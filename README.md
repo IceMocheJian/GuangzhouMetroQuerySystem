@@ -12,7 +12,7 @@ Final Project for the SCNU "Data Structures and Algorithms" Course.
 
 SCNU《数据结构与算法》课程期末大作业
 
-![img](https://github.com/IceMocheJian/GuangzhouMetroQuerySystem/blob/master/%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92%E7%B3%BB%E7%BB%9F/img.png?raw=true)
+![img](https://github.com/IceMocheJian/GuangzhouMetroQuerySystem/blob/master/%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92%E7%B3%BB%E7%BB%9F/img_of_system.png?raw=true)
 
 
 
